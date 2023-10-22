@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DHANUSH S
-- 👀 I’m interested in ... Web development.
-- 🌱 I’m currently learning ...Full stack web development [HTML,CSS.JAVASCRIPT]
+- 👀 I’m passionate about Web development.
+- 🌱 I’m currently learning ...Full stack web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
